@@ -9,9 +9,9 @@ Features
 1. Check the exam result
 2. View the list of the faculties
 
-Project Timeline 
-Start Date: May 2019
-Completion Date: Nov 2019
-Status: Completed
-Type: Final Year Project
+Project Timeline \
+Start Date: May 2019 \
+Completion Date: Nov 2019 \
+Status: Completed \
+Type: Final Year Project \
 CLient: Faculty of Information & Communication Technology, Limkokwing University
