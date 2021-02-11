@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cde4d573-3bf1-4000-99e0-ee4243067cdf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/LimkokwingBot.php" beforeDir="false" afterPath="$PROJECT_DIR$/LimkokwingBot.php" afterDir="false" />
-    </list>
+    <list default="true" id="cde4d573-3bf1-4000-99e0-ee4243067cdf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,9 +71,17 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="556" y="393" key="NewPhpFileDialog" timestamp="1613031154627">
+    <state x="454" y="272" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613031656566">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="556" y="393" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1613031154627" />
+    <state x="454" y="272" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1613031656566" />
+    <state x="505" y="196" key="NewPhpClassDialog" timestamp="1613031637155">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="505" y="196" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1613031637155" />
+    <state x="556" y="393" key="NewPhpFileDialog" timestamp="1613031692624">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="556" y="393" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1613031692624" />
   </component>
 </project>
