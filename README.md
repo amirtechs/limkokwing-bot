@@ -15,4 +15,4 @@ Start Date: May 2019 \
 Completion Date: Nov 2019 \
 Status: Completed \
 Type: Final Year Project \
-CLient: Faculty of Information & Communication Technology, Limkokwing University
+Client: Faculty of Information & Communication Technology, Limkokwing University
