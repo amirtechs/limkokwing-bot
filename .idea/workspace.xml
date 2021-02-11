@@ -20,8 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cde4d573-3bf1-4000-99e0-ee4243067cdf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LimkokwingBot.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LimkokwingBot.php" beforeDir="false" afterPath="$PROJECT_DIR$/LimkokwingBot.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,5 +71,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="393" key="NewPhpFileDialog" timestamp="1613031154627">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="556" y="393" key="NewPhpFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1613031154627" />
   </component>
 </project>
